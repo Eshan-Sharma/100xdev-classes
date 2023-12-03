@@ -70,3 +70,4 @@ function mul(a,b) {
 console.log("Arithmetic subs: "+arithmetic(3,4,subs));
 console.log("Arithmetic sum: "+arithmetic(3,4,sum));
 console.log("Arithmetic mul: "+arithmetic(3,4,mul));
+//Till slide 30 week 1.2
